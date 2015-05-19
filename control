@@ -1,0 +1,9 @@
+Package: argus
+Priority: optional
+Section: admin
+Description: a network stream analysis system
+Depends: 
+Maintainer: Joel W. Reed <joel.reed.dev@gmail.com> 
+Source: https://github.com/JoelWesleyReed/argus-ipkg-src
+Version: 3.0.8.1
+Architecture: mipsel
